@@ -1,11 +1,11 @@
 <h1 align="center">Привет! 👋 Я Всеволод</h1>
 
 <p align="center">
-  <a href="https://github.com/ваш-профиль?tab=followers">
-    <img src="https://img.shields.io/github/followers/ваш-профиль?label=Followers" alt="followers">
+  <a href="https://github.com/seli0n0?tab=followers">
+    <img src="https://img.shields.io/github/followers/seli0n0?label=Followers" alt="followers">
   </a>
-  <a href="https://github.com/ваш-профиль?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ваш-профиль?label=Stars" alt="stars">
+  <a href="https://github.com/seli0n0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/seli0n0?label=Stars" alt="stars">
   </a>
 </p>
 
@@ -37,11 +37,11 @@
 <h1 align="center">Hello! 👋 I'm Vsevolod</h1>
 
 <p align="center">
-  <a href="https://github.com/ваш-профиль?tab=followers">
-    <img src="https://img.shields.io/github/followers/ваш-профиль?label=Followers" alt="followers">
+  <a href="https://github.com/seli0n0?tab=followers">
+    <img src="https://img.shields.io/github/followers/seli0n0?label=Followers" alt="followers">
   </a>
-  <a href="https://github.com/ваш-профиль?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ваш-профиль?label=Stars" alt="stars">
+  <a href="https://github.com/seli0n0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/seli0n0?label=Stars" alt="stars">
   </a>
 </p>
 
@@ -83,9 +83,9 @@ My name is Vsevolod, and I am 15 years old. I have been programming for almost 3
 
 Вот некоторые из моих проектов, которыми я горжусь:
 
-- [Проект 1](https://github.com/ваш-профиль/проект1) - Описание проекта 1.
-- [Проект 2](https://github.com/ваш-профиль/проект2) - Описание проекта 2.
-- [Проект 3](https://github.com/ваш-профиль/проект3) - Описание проекта 3.
+- [Проект 1](https://github.com/seli0n0/проект1) - Описание проекта 1.
+- [Проект 2](https://github.com/seli0n0/проект2) - Описание проекта 2.
+- [Проект 3](https://github.com/seli0n0/проект3) - Описание проекта 3.
 
 ### 📫 Связаться со мной
 
