@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B" alt="C++" />
-  <img src="https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" alt="Python" />
 </p>
 
 ### 👨‍💻 Обо мне
