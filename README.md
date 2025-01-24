@@ -58,9 +58,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B" alt="C++" />
-  <img src="https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ### 👨‍💻 About Me
@@ -77,14 +75,6 @@ My name is Vsevolod, and I am 15 years old. I have been programming for almost 3
 - 🚀 Dreaming of contributing to open-source projects.
 - 🏆 Participated in several hackathons and coding competitions.
 - 💡 **Did You Know?** The first computer programmer was Ada Lovelace, who created an algorithm for Charles Babbage's early mechanical general-purpose computer!
-
-### 🎨 Мои проекты
-
-Вот некоторые из моих проектов, которыми я горжусь:
-
-- [Проект 1](https://github.com/seli0n0/проект1) - Описание проекта 1.
-- [Проект 2](https://github.com/seli0n0/проект2) - Описание проекта 2.
-- [Проект 3](https://github.com/seli0n0/проект3) - Описание проекта 3.
 
 ### 📫 Связаться со мной
 
