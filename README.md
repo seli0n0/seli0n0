@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+
 </p>
 
 ### 👨‍💻 Обо мне
