@@ -63,18 +63,10 @@
 
 ### 👨‍💻 About Me
 
-My name is Vsevolod, and I am 15 years old. I have been programming for almost 3 years. My first language was Python, which remains my primary language. Despite my age, I have already participated in the development of several significant projects, from creating a small company website to participating in CTF (Capture the Flag). In the future, I plan to focus on artificial intelligence development.
+My name is Vsevolod, and I am 15 years old. I have been programming for almost 3 years. My first language was Python, which remains my primary language. In the future, I plan to focus on artificial intelligence development.
 
 ---
 
-### 🎉 Fun Facts
-
-- 🌱 Currently learning about artificial intelligence.
-- 🎮 Love to play video games and solve coding challenges.
-- 📚 Always eager to learn new programming languages and frameworks.
-- 🚀 Dreaming of contributing to open-source projects.
-- 🏆 Participated in several hackathons and coding competitions.
-- 💡 **Did You Know?** The first computer programmer was Ada Lovelace, who created an algorithm for Charles Babbage's early mechanical general-purpose computer!
 
 ### 📫 Связаться со мной
 
